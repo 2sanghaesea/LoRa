@@ -20,11 +20,11 @@ STM32에서 제공하는 STM32WL Example중, SubGHz_PingPong 예제파일 해석
 <br/>
 * * *
 <br/>
-<p align="center">
-  <img src="https://github.com/2sanghaesea/Nucleo-Subghz-node-gateway/assets/116778214/adfbb693-2084-469d-9190-607d10e0e072" alt="image">
-</p>
 
 
-![제목 없는 다이어그램 drawio](https://github.com/2sanghaesea/Nucleo-Subghz-node-gateway/assets/116778214/68627a35-7130-447d-af3b-1e60e66e2d95)
+
 <br/><br/>
 
+
+
+![제목 없는 다이어그램 drawio](https://github.com/2sanghaesea/LoRa/assets/116778214/cded42db-9874-4d60-923c-a0a0b507ac0b)
