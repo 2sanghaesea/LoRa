@@ -1,0 +1,9 @@
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:179:13:tiny_snprintf_like	16	static
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:143:13:TimestampNow	32	static
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:84:6:SystemApp_Init	8	static
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:126:6:UTIL_SEQ_Idle	8	static
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:157:6:UTIL_ADV_TRACE_PreSendHook	8	static
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:168:6:UTIL_ADV_TRACE_PostSendHook	8	static
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:202:19:HAL_InitTick	0	static
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:217:10:HAL_GetTick	8	static
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/Core/Src/sys_app.c:249:6:HAL_Delay	16	static

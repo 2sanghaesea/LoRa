@@ -1,0 +1,12 @@
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:343:17:powInt	2
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:317:13:OnRxError	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:309:13:OnRxTimeout	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:301:13:OnTxTimeout	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:276:13:OnTxDone	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:394:13:onTimerRelayEvent	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:414:13:SHT31_Process	27
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:289:13:OnRxDone	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:333:13:OnLedRxEvent	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:338:13:OnLedErrorEvent	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:328:13:OnLedTxEvent	1
+C:/Users/user/STM32CubeIDE/testlora/SubGHz_Phy_PingPong/SubGHz_Phy/App/subghz_phy_app.c:163:6:SubghzApp_Init	1

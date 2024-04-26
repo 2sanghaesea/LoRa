@@ -1,0 +1,10 @@
+../SHT31/SHT31.c:24:6:SHT31_Config	16	static
+../SHT31/SHT31.c:34:14:SHT31_SendCommand	24	static
+../SHT31/SHT31.c:43:14:SHT31_GetBytes	16	static
+../SHT31/SHT31.c:110:10:SHT31_GetCommand	0	static
+../SHT31/SHT31.c:124:9:SHT31_CRC_8	0	static
+../SHT31/SHT31.c:51:14:SHT31_GetData	24	static
+../SHT31/SHT31.c:139:7:SHT31_GetHumidity	8	static
+../SHT31/SHT31.c:142:7:SHT31_GetTemperature	8	static
+../SHT31/SHT31.c:146:10:SHT31_GetHumidity_raw	0	static
+../SHT31/SHT31.c:149:10:SHT31_GetTemperature_raw	0	static

@@ -1,0 +1,2 @@
+SHT31/CRC.o: ../SHT31/CRC.c ../SHT31/CRC.h
+../SHT31/CRC.h:
